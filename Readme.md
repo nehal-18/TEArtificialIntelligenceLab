@@ -3,8 +3,8 @@
 graph and develop a recursive algorithm for searching all the vertices of a graph or tree data
 structure. <br>
 <br>
-2. Implement A star Algorithm for any game search problem.
-
+2. Implement A star Algorithm for any game search problem.<br>
+<br>
 3.Implement Greedy search algorithm for any of the following application:<br>
    I. Selection Sort<br>
    II. Minimum Spanning Tree<br>
