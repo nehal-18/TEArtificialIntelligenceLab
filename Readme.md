@@ -12,13 +12,13 @@ structure. <br>
    IV. Job Scheduling Problem<br>
    V. Prim's Minimal Spanning Tree Algorithm<br>
    VI. Kruskal's Minimal Spanning Tree Algorithm<br>
-   VII. Dijkstra's Minimal Spanning Tree Algorithm
-
+   VII. Dijkstra's Minimal Spanning Tree Algorithm<br>
+<br>
 4.Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and
-Backtracking for n-queens problem or a graph coloring problem.
-
-5.Develop an elementary chatbot for any suitable customer interaction application.
- 
+Backtracking for n-queens problem or a graph coloring problem.<br>
+<br>
+5.Develop an elementary chatbot for any suitable customer interaction application.<br>
+ <br>
 6.Implement any one of the following Expert System<br>
    I. Information management<br>
    II. Hospitals and medical facilities<br>
