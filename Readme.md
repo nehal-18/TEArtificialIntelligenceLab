@@ -1,17 +1,17 @@
 <h1> List of Laboratory Experiments/Assignments </h1>
 1.Implement depth first search algorithm and Breadth First Search algorithm, Use an undirected
 graph and develop a recursive algorithm for searching all the vertices of a graph or tree data
-structure. 
+structure. <br>
 
 2. Implement A star Algorithm for any game search problem.
 
-3.Implement Greedy search algorithm for any of the following application:
-   I. Selection Sort
-   II. Minimum Spanning Tree
-   III. Single-Source Shortest Path Problem
-   IV. Job Scheduling Problem
-   V. Prim's Minimal Spanning Tree Algorithm
-   VI. Kruskal's Minimal Spanning Tree Algorithm
+3.Implement Greedy search algorithm for any of the following application:<br>
+   I. Selection Sort<br>
+   II. Minimum Spanning Tree<br>
+   III. Single-Source Shortest Path Problem<br>
+   IV. Job Scheduling Problem<br>
+   V. Prim's Minimal Spanning Tree Algorithm<br>
+   VI. Kruskal's Minimal Spanning Tree Algorithm<br>
    VII. Dijkstra's Minimal Spanning Tree Algorithm
 
 4.Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and
